@@ -1,3 +1,7 @@
+# Fork
+
+Added config for IPC-G42, dosn't produce valid signing, but creates valid .raw images for use with flashcp
+
 # Dahua-Firmware-Mod-Kit
 Unpack and repack Dahua IP camera firmware upgrade images.
 
